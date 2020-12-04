@@ -31,67 +31,70 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: '',
-    info: '',
+    img: 'quote-bot.png',
+    title: 'Quote Bot',
+    info:
+      'This application generates random quotes from a public API and allows users to tweet the current quote or select a new quote to tweet. Quote Bot is responsive on desktop and mobile devices.',
     info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    url: 'https://jameswhitney.github.io/random-qoutes',
+    repo: 'https://github.com/jameswhitney/random-qoutes', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: '',
-    info: '',
+    img: 'star-wars.png',
+    title: 'StarWars Friends',
+    info:
+      'Star Wars Friends generates random robot images on cards based on famous Star Wars characters. A search field component filters cards based on user search input. The application was created using React.js and several NPM libraries.',
     info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    url: 'https://jameswhitney.github.io/swapi-app',
+    repo: 'https://github.com/jameswhitney/swapi-app', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: '',
-    info: '',
+    img: 'face-detector.png',
+    title: 'Face Detector',
+    info:
+      'Face Detector highlights all faces found within an image for registered users. Since Face Detector is used for demonstration purposes, I would advise users to enter fake names, emails, and passwords. Face Detector was built with React.js, Node.js, Express, and PostgreSQL.',
     info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    url: 'https://img-detection.herokuapp.com/',
+    repo: 'https://github.com/jameswhitney/face-detector', // if no repo, the button will not show up
   },
 ];
 
 // CONTACT DATA
 export const contactData = {
-  cta: '',
-  btn: '',
-  email: '',
+  cta: `Would you like to know more?`,
+  btn: `Let's talk`,
+  email: 'james@flashcat.dev',
 };
 
 // FOOTER DATA
 export const footerData = {
   networks: [
-    {
-      id: nanoid(),
-      name: 'twitter',
-      url: '',
-    },
-    {
-      id: nanoid(),
-      name: 'codepen',
-      url: '',
-    },
+    // {
+    //   id: nanoid(),
+    //   name: 'twitter',
+    //   url: '',
+    // },
+    // {
+    //   id: nanoid(),
+    //   name: 'codepen',
+    //   url: '',
+    // },
     {
       id: nanoid(),
       name: 'linkedin',
-      url: '',
+      url: 'https://www.linkedin.com/in/jameswhitney2',
     },
     {
       id: nanoid(),
       name: 'github',
-      url: '',
+      url: 'https://github.com/jameswhitney',
     },
   ],
 };
 
 // Github start/fork buttons
 export const githubButtons = {
-  isEnabled: true, // set to false to disable the GitHub stars/fork buttons
+  isEnabled: false, // set to false to disable the GitHub stars/fork buttons
 };
