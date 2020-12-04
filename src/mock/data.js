@@ -17,11 +17,14 @@ export const heroData = {
 
 // ABOUT DATA
 export const aboutData = {
-  img: 'profile.jpg',
-  paragraphOne: '',
-  paragraphTwo: '',
-  paragraphThree: '',
-  resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
+  img: 'profile.png',
+  paragraphOne:
+    'With over 4 years of experience as a software developer and analyst, my current focus is on creating front-end JavaScript applications using React.',
+  paragraphTwo:
+    'I started my tech career as an analyst and developer working with new medical technologies. While working in the medical field, I led small teams of developers and designers to rapidly create, implement and deploy bug fixes which affected patient safety and clients operating revenue.',
+  paragraphThree:
+    'After leaving the medical field I have begun to pursue new opportunities as a front-end developer with back-end experience. My current goals are to continue to grow as a developer and contribute value for tech start ups and established businesses.',
+  resume: '', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
