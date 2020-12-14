@@ -57,7 +57,7 @@ export const projectsData = [
       'Face Detector highlights all faces found within an image for registered users. Since Face Detector is used for demonstration purposes, I would advise users to enter fake names, emails, and passwords. Face Detector was built with React.js, Node.js, Express, and PostgreSQL.',
     info2: '',
     url: 'https://img-detection.herokuapp.com/',
-    repo: 'https://github.com/jameswhitney/face-detector', // if no repo, the button will not show up
+    repo: 'https://github.com/jameswhitney/img-detection', // if no repo, the button will not show up
   },
 ];
 
