@@ -71,16 +71,6 @@ export const contactData = {
 // FOOTER DATA
 export const footerData = {
   networks: [
-    // {
-    //   id: nanoid(),
-    //   name: 'twitter',
-    //   url: '',
-    // },
-    // {
-    //   id: nanoid(),
-    //   name: 'codepen',
-    //   url: '',
-    // },
     {
       id: nanoid(),
       name: 'linkedin',
