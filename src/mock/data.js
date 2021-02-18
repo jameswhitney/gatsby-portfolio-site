@@ -36,8 +36,8 @@ export const projectsData = [
     info:
       'This application generates random quotes from a public API and allows users to tweet the current quote or select a new quote to tweet. Quote Bot is responsive on desktop and mobile devices.',
     info2: '',
-    url: 'https://jameswhitney.github.io/random-qoutes',
-    repo: 'https://github.com/jameswhitney/random-qoutes', // if no repo, the button will not show up
+    url: 'https://jameswhitney.github.io/random-qoutes/',
+    repo: 'https://github.com/jameswhitney/random-qoutes/', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
@@ -46,8 +46,8 @@ export const projectsData = [
     info:
       'Star Wars Friends generates random robot images on cards based on famous Star Wars characters. A search field component filters cards based on user search input. The application was created using React.js and several NPM libraries.',
     info2: '',
-    url: 'https://jameswhitney.github.io/swapi-app',
-    repo: 'https://github.com/jameswhitney/swapi-app', // if no repo, the button will not show up
+    url: 'https://jameswhitney.github.io/swapi-app/',
+    repo: 'https://github.com/jameswhitney/swapi-app/', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
@@ -57,7 +57,17 @@ export const projectsData = [
       'Face Detector highlights all faces found within an image for registered users. Since Face Detector is used for demonstration purposes, I would advise users to enter fake names, emails, and passwords. Face Detector was built with React.js, Node.js, Express, and PostgreSQL.',
     info2: '',
     url: 'https://img-detection.herokuapp.com/',
-    repo: 'https://github.com/jameswhitney/img-detection', // if no repo, the button will not show up
+    repo: 'https://github.com/jameswhitney/img-detection/', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
+    img: 'flashcat-apparel.png',
+    title: 'FlashCat Apparel',
+    info:
+      'This application is still under development and is updated regularly. FlashCat Apparel is an e-commerce project built using ReactJS, Redux, Redux-Saga, React Hooks, Styled Components, GraphQL and Firebase.',
+    info2: '',
+    url: 'https://flashcat-live.herokuapp.com/',
+    repo: 'https://github.com/jameswhitney/apparel-site/', // if no repo, the button will not show up
   },
 ];
 
