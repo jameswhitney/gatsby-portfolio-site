@@ -64,7 +64,7 @@ export const projectsData = [
     img: 'flashcat-apparel.png',
     title: 'FlashCat Apparel',
     info:
-      'This application is still under development and is updated regularly. FlashCat Apparel is an e-commerce project built using ReactJS, Redux, Redux-Saga, React Hooks, Styled Components, GraphQL and Firebase.',
+      'FlashCat Apparel is an e-commerce project built using ReactJS, Redux, Redux-Saga, React Hooks, Styled Components and Firebase. This project will be cloned and refactored in order to study Context API, GraphQL and add support for mobile devices.',
     info2: '',
     url: 'https://flashcat-live.herokuapp.com/',
     repo: 'https://github.com/jameswhitney/apparel-site/', // if no repo, the button will not show up
