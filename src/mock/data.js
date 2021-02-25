@@ -31,16 +31,6 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'quote-bot.png',
-    title: 'Quote Bot',
-    info:
-      'This application generates random quotes from a public API and allows users to tweet the current quote or select a new quote to tweet. Quote Bot is responsive on desktop and mobile devices.',
-    info2: '',
-    url: 'https://jameswhitney.github.io/random-qoutes/',
-    repo: 'https://github.com/jameswhitney/random-qoutes/', // if no repo, the button will not show up
-  },
-  {
-    id: nanoid(),
     img: 'star-wars.png',
     title: 'StarWars Friends',
     info:
