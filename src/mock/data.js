@@ -56,8 +56,8 @@ export const projectsData = [
     info:
       'FlashCat Apparel is an e-commerce project built using ReactJS, Redux, Redux-Saga, React Hooks, Styled Components and Firebase. Currently converting project to use TypeScript.',
     info2: '',
-    url: 'https://flashcat-live.herokuapp.com/',
-    repo: 'https://github.com/jameswhitney/apparel-site/', // if no repo, the button will not show up
+    url: 'https://creative-cannoli-7653c3.netlify.app/',
+    repo: 'https://github.com/jameswhitney/noneko-clothing', // if no repo, the button will not show up
   },
 ];
 
