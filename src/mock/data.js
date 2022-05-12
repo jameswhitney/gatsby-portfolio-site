@@ -51,10 +51,10 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'flashcat-apparel.png',
+    img: 'noneko-clothing.png',
     title: 'FlashCat Apparel',
     info:
-      'FlashCat Apparel is an e-commerce project built using ReactJS, Redux, Redux-Saga, React Hooks, Styled Components and Firebase. This project will be cloned and refactored in order to study Context API, GraphQL and add support for mobile devices.',
+      'FlashCat Apparel is an e-commerce project built using ReactJS, Redux, Redux-Saga, React Hooks, Styled Components and Firebase. Currently converting project to use TypeScript.',
     info2: '',
     url: 'https://flashcat-live.herokuapp.com/',
     repo: 'https://github.com/jameswhitney/apparel-site/', // if no repo, the button will not show up
