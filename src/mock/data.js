@@ -54,10 +54,10 @@ export const projectsData = [
     img: 'noneko-clothing.png',
     title: 'Noneko Clothing',
     info:
-      'Noneko clothing is an e-commerce project built using ReactJS, Redux, Redux-Saga, React Hooks, Styled Components and Firebase. Currently working on migrating project to TypeScript.',
+      'Noneko clothing is an e-commerce project built using ReactJS, TypeScript, Redux, Redux-Saga, React Hooks, Styled Components and Firebase. Currently working on migrating project to TypeScript.',
     info2: '',
-    url: 'https://creative-cannoli-7653c3.netlify.app/',
-    repo: 'https://github.com/jameswhitney/noneko-clothing', // if no repo, the button will not show up
+    url: 'https://phenomenal-naiad-22e40f.netlify.app/',
+    repo: 'https://github.com/jameswhitney/noneko-clothing-typed', // if no repo, the button will not show up
   },
 ];
 
@@ -65,7 +65,7 @@ export const projectsData = [
 export const contactData = {
   cta: `Would you like to know more?`,
   btn: `Let's talk`,
-  email: 'james@flashcat.dev',
+  email: 'jamesdrums@mac.com',
 };
 
 // FOOTER DATA
